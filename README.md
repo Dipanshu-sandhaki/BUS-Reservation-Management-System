@@ -145,7 +145,7 @@ BUS-Reservation-Management-System/
 **Dipanshu Sandhaki**  
 🎓 MCA Student | Aspiring Full Stack Developer  
 🌍 Based in Dehradun, India  
-📨 [LinkedIn](www.linkedin.com/in/dipanshusandhaki)
+📨 [LinkedIn](https://www.linkedin.com/in/dipanshusandhaki)
 
 ---
 
