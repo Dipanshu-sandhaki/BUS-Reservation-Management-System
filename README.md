@@ -2,8 +2,6 @@
 
 A full-stack **Bus Reservation Management System** built using **Python Django**, **HTML/CSS**, **Bootstrap**, and **MySQL**. This project offers an easy and intuitive interface to book bus tickets, view available routes, manage bookings, and handle administrative tasks securely.
 
-> 📌 Public Repository: [GitHub Link](https://github.com/Dipanshu-sandhaki/BUS-Reservation-Management-System)
-
 ---
 
 ## ⚙️ Tech Stack
